@@ -1,0 +1,15 @@
+{
+  "codeowners": [
+    "@maxfire2008"
+  ],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/maxfire2008/ha-pinnacle-road",
+  "domain": "pinnacle_road",
+  "iot_class": "cloud_polling",
+  "name": "Pinnacle Road Closure",
+  "requirements": [
+    "requests==2.32.3"
+  ],
+  "version": "0.1.0"
+}
