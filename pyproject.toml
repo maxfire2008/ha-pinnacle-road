@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pinnacle-road"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["maxfire2008 <22722054+maxfire2008@users.noreply.github.com>"]
 readme = "README.md"
